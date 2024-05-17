@@ -1,6 +1,6 @@
 import random
 
-names = ["Victor", "Cayla", "Kate", "Abby", "David"]
+names = ["Victor", "Cayla", "Kate", "Abby", "Davidd"]
 
 num_items = len(names)
 
